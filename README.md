@@ -21,3 +21,4 @@ Dato che l’app non passa dal Mac App Store, macOS ti avviserà la prima volta 
 “App da sviluppatore non identificato”: fai clic destro sull’app → Apri, invece del doppio click normale. Te lo chiederà solo la prima volta.
 Permesso Accessibilità: l’app te lo chiederà per poter leggere e sostituire la parola selezionata ovunque tu stia scrivendo. Vai su System Settings → Privacy & Security → Accessibility e attivalo per Tesauro Italiano — è anche il motivo per cui l’app può funzionare in qualsiasi editor senza bisogno di essere integrata in ciascuno singolarmente.
 
+https://github.com/buttidavide1/tesauro_italiano/releases/tag/v1.0.0
